@@ -1,0 +1,13 @@
+.b {
+  background-color: yellow;
+  color: red;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 22px;
+  line-height: 18px;
+}
+
+.page-header {
+    border-bottom: 1px solid #eeeeee;
+    margin: 77px 0 20px;
+    padding-bottom: 60px;
+}
